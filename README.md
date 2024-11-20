@@ -1,8 +1,6 @@
 # QC-Pinboard
 A simple pinboard script for RSG Framework based of syn pinboard
 
-# UPDATED RECENTLY FOR NEW RSG CORE
-
 # Quantum Project
 [Quantum Projects Discord](https://discord.gg/kJ8ZrGM8TS)
 
